@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160225 "Floating Point Number"
+# Everyday One Motion - 20160225  
 
-![](20160225.gif)
+"Floating Point Number"  
 
-JavaScript, Canvas
+![](20160225.gif)  
+
+JavaScript, Canvas  
 
 [Everyday One Motion](http://motions.work/motion/124)  
-[Demo Page](http://fms-cat.github.io/eom_20160225/)  
+[Demo Page](http://fms-cat-eom.github.io/20160225/)  
 
 ## はじめに
 
